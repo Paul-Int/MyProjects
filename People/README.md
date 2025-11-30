@@ -1,2 +1,2 @@
 # People
-Paweł, Filip
+Paweł, Filip, Konstanty
